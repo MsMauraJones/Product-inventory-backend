@@ -8,6 +8,6 @@ The backend server user node.js express with jsonwebtoken for JWT authentication
 
 ### Frontend
 
-Available here: 
+Available here: https://github.com/MsMauraJones/Product-Inventory-frontend
 
 The frontend is created with React, using also react router and axios. Bootstrap is used to assist with formatting. 
