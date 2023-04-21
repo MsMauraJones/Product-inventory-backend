@@ -13,7 +13,7 @@ const Role = db.role;
 const Ministry = db.ministry;
 
 
-mongoose.connect(DB_CONNECTION, {
+mongoose.connect(process.env.DB_CONNECTION, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => {
